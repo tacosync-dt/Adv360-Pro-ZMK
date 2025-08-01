@@ -30,6 +30,15 @@
         };
     };
 
+    combos {
+        compatible = "zmk,combos";
+
+        nihongo {
+            bindings = <&none>;
+            key-positions = <35 65>;
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
