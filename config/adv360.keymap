@@ -28,16 +28,6 @@
             bindings = <&none>;
             key-positions = <35 65>;
         };
-
-        Copy {
-            bindings = <&none>;
-            key-positions = <35 49>;
-        };
-
-        Paste {
-            bindings = <&none>;
-            key-positions = <35 50>;
-        };
     };
 
     keymap {
